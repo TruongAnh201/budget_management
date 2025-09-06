@@ -1,0 +1,63 @@
+
+export const LIST_COLOR =
+[{
+  "id": 1,
+  "color": "#65a6b4"
+}, {
+  "id": 2,
+  "color": "#bb17bc"
+}, {
+  "id": 3,
+  "color": "#19c8e7"
+}, {
+  "id": 4,
+  "color": "#e28e24"
+}, {
+  "id": 5,
+  "color": "#5f7f8d"
+}, {
+  "id": 6,
+  "color": "#648361"
+}, {
+  "id": 7,
+  "color": "#5c4095"
+}, {
+  "id": 8,
+  "color": "#dad5b5"
+}, {
+  "id": 9,
+  "color": "#7e3a46"
+}, {
+  "id": 10,
+  "color": "#b9ae2f"
+}, {
+  "id": 11,
+  "color": "#fb65e7"
+}, {
+  "id": 12,
+  "color": "#456409"
+}, {
+  "id": 13,
+  "color": "#eafa09"
+}, {
+  "id": 14,
+  "color": "#3280aa"
+}, {
+  "id": 15,
+  "color": "#8dca12"
+}, {
+  "id": 16,
+  "color": "#753a1f"
+}, {
+  "id": 17,
+  "color": "#10c517"
+}, {
+  "id": 18,
+  "color": "#21ec9b"
+}, {
+  "id": 19,
+  "color": "#c047d4"
+}, {
+  "id": 20,
+  "color": "#1a6274"
+}];
