@@ -3,3 +3,4 @@ let test_commit_rebase;
 let test_commit_merge_to_budg_0002
 let test_commit_rebase_in_the_bugd_0002
 let test_commit_budg_0009
+let test_commit_budg_0009_2
